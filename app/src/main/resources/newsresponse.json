@@ -1,0 +1,266 @@
+{
+  "status": "ok",
+  "totalResults": 34,
+  "articles": [
+    {
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "author": "Versa",
+      "title": "Afinal, basta alterar a ordem dos alimentos para perder peso - Versa",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMihwFodHRwczovL3ZlcnNhLmlvbC5wdC9uZWNlc3NhaXJlL2VtYWdyZWNlci9hZmluYWwtYmFzdGEtYWx0ZXJhci1hLW9yZGVtLWRvcy1hbGltZW50b3MtcGFyYS1wZXJkZXItcGVzby8yMDIzMDkxOS82NTA4MTYxMGQzNGU2NWFmYTJmNTcxYznSAQA?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2023-09-19T00:22:00Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "author": "RTP",
+      "title": "UNICEF. Atraso dos Objetivos de Desenvolvimento compromete futuro de 1,9 mil milhões de crianças - RTP",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMiiQFodHRwczovL3d3dy5ydHAucHQvbm90aWNpYXMvbXVuZG8vdW5pY2VmLWF0cmFzby1kb3Mtb2JqZXRpdm9zLWRlLWRlc2Vudm9sdmltZW50by1jb21wcm9tZXRlLWZ1dHVyby1kZS0xOS1taWwtbWlsaG9lcy1kZS1jcmlhbmNhc19uMTUxNDcyN9IBAA?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2023-09-19T00:04:46Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "author": "SIC Notícias",
+      "title": "Vacinação da gripe e covid-19 arranca a 29 de setembro nas farmácias - SIC Notícias",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMihQFodHRwczovL3NpY25vdGljaWFzLnB0L2VzcGVjaWFpcy9jb3JvbmF2aXJ1cy8yMDIzLTA5LTE5LVZhY2luYWNhby1kYS1ncmlwZS1lLWNvdmlkLTE5LWFycmFuY2EtYS0yOS1kZS1zZXRlbWJyby1uYXMtZmFybWFjaWFzLTQ4OGM3MmFj0gEA?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2023-09-18T23:52:15Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "author": "RTP",
+      "title": "Embargo de cereais. Kiev apresenta queixa na OMC contra três países da UE - RTP",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMidmh0dHBzOi8vd3d3LnJ0cC5wdC9ub3RpY2lhcy9lY29ub21pYS9lbWJhcmdvLWRlLWNlcmVhaXMta2lldi1hcHJlc2VudGEtcXVlaXhhLW5hLW9tYy1jb250cmEtdHJlcy1wYWlzZXMtZGEtdWVfbjE1MTQ4MzPSAQA?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2023-09-18T23:27:00Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "author": "Renascença",
+      "title": "Gripe. Especialistas divulgam recomendações para aumentar adesão à vacinação - Renascença",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMifmh0dHBzOi8vcnIuc2Fwby5wdC9ub3RpY2lhL3BhaXMvMjAyMy8wOS8xOS9ncmlwZS1lc3BlY2lhbGlzdGFzLWRpdnVsZ2FtLXJlY29tZW5kYWNvZXMtcGFyYS1hdW1lbnRhci1hZGVzYW8tYS12YWNpbmFjYW8vMzQ3MjQxL9IBggFodHRwczovL3JyLnNhcG8ucHQvbm90aWNpYS9hbXAvcGFpcy8yMDIzLzA5LzE5L2dyaXBlLWVzcGVjaWFsaXN0YXMtZGl2dWxnYW0tcmVjb21lbmRhY29lcy1wYXJhLWF1bWVudGFyLWFkZXNhby1hLXZhY2luYWNhby8zNDcyNDEv?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2023-09-18T23:19:00Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "author": "Jornal de Notícias",
+      "title": "Polémica da estátua: Rui Moreira revela mensagem privada de deputada - Jornal de Notícias",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMiYWh0dHBzOi8vd3d3LmpuLnB0LzgwOTI2MDk0NjEvcG9sZW1pY2EtZGEtZXN0YXR1YS1ydWktbW9yZWlyYS1yZXZlbGEtbWVuc2FnZW0tcHJpdmFkYS1kZS1kZXB1dGFkYS_SAWVodHRwczovL3d3dy5qbi5wdC84MDkyNjA5NDYxL3BvbGVtaWNhLWRhLWVzdGF0dWEtcnVpLW1vcmVpcmEtcmV2ZWxhLW1lbnNhZ2VtLXByaXZhZGEtZGUtZGVwdXRhZGEvYW1wLw?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2023-09-18T23:11:00Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "author": "O Jogo",
+      "title": "Vuelta: João Almeida e Rui Costa somaram prémios semelhantes, mas recebem cheques muito diferentes - O Jogo",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMioQFodHRwczovL3d3dy5vam9nby5wdC9tb2RhbGlkYWRlcy9jaWNsaXNtby9ub3RpY2lhcy92dWVsdGEtam9hby1hbG1laWRhLWUtcnVpLWNvc3RhLXNvbWFyYW0tcHJlbWlvcy1zZW1lbGhhbnRlcy1tYXMtcmVjZWJlbS1jaGVxdWVzLW11aXRvLWRpZmVyZW50ZXMtMTcwNDY2NzcuaHRtbNIBpQFodHRwczovL3d3dy5vam9nby5wdC9tb2RhbGlkYWRlcy9jaWNsaXNtby9ub3RpY2lhcy9hbXAvdnVlbHRhLWpvYW8tYWxtZWlkYS1lLXJ1aS1jb3N0YS1zb21hcmFtLXByZW1pb3Mtc2VtZWxoYW50ZXMtbWFzLXJlY2ViZW0tY2hlcXVlcy1tdWl0by1kaWZlcmVudGVzLTE3MDQ2Njc3Lmh0bWw?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2023-09-18T22:27:00Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "author": "Jornal de Notícias",
+      "title": "Apple disponibiliza iOS17: conheça as novas funcionalidades - Jornal de Notícias",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMiWGh0dHBzOi8vd3d3LmpuLnB0LzEyNTExMDc2OTgvYXBwbGUtZGlzcG9uaWJpbGl6YS1pb3MxNy1jb25oZWNhLWFzLW5vdmFzLWZ1bmNpb25hbGlkYWRlcy_SAVxodHRwczovL3d3dy5qbi5wdC8xMjUxMTA3Njk4L2FwcGxlLWRpc3BvbmliaWxpemEtaW9zMTctY29uaGVjYS1hcy1ub3Zhcy1mdW5jaW9uYWxpZGFkZXMvYW1wLw?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2023-09-18T22:14:00Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "author": "O Jogo",
+      "title": "Casillas ataca a federação espanhola após a convocatória da seleção feminina - O Jogo",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMiigFodHRwczovL3d3dy5vam9nby5wdC9lc3BlY2lhaXMvZnV0ZWJvbC1mZW1pbmluby9jYXNpbGxhcy1hdGFjYS1hLWZlZGVyYWNhby1lc3BhbmhvbGEtYXBvcy1hLWNvbnZvY2F0b3JpYS1kYS1zZWxlY2FvLWZlbWluaW5hLTE3MDQ2NTIxLmh0bWzSAY4BaHR0cHM6Ly93d3cub2pvZ28ucHQvZXNwZWNpYWlzL2Z1dGVib2wtZmVtaW5pbm8vYW1wL2Nhc2lsbGFzLWF0YWNhLWEtZmVkZXJhY2FvLWVzcGFuaG9sYS1hcG9zLWEtY29udm9jYXRvcmlhLWRhLXNlbGVjYW8tZmVtaW5pbmEtMTcwNDY1MjEuaHRtbA?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2023-09-18T21:52:00Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "author": "A Bola",
+      "title": "Notícia Patrocinada Aposte na Betclic: FC Porto invencível perante o Shaktar | Abola.pt - A Bola",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMicWh0dHBzOi8vd3d3LmFib2xhLnB0L2Z1dGVib2wvbm90aWNpYXMvYXBvc3RlLW5hLWJldGNsaWMtZmMtcG9ydG8taW52ZW5jaXZlbC1wZXJhbnRlLW8tc2hha3Rhci0yMDIzMDkxODIxNDUxNTc1MzE50gEA?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2023-09-18T21:46:35Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "author": "RTP",
+      "title": "I Liga. Boavista FC - GD Chaves em direto - RTP",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMiVGh0dHBzOi8vd3d3LnJ0cC5wdC9ub3RpY2lhcy9kZXNwb3J0by9pLWxpZ2EtYm9hdmlzdGEtZmMtZ2QtY2hhdmVzLWVtLWRpcmV0b19lMTUxNDgyNNIBAA?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2023-09-18T21:34:34Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "author": "Leak",
+      "title": "Sabia que pode escrever com o dedo na pesquisa da Google? - Leak",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMiTWh0dHBzOi8vd3d3LmxlYWsucHQvc2FiaWEtcXVlLXBvZGUtZXNjcmV2ZXItY29tLW8tZGVkby1uYS1wZXNxdWlzYS1kYS1nb29nbGUv0gEA?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2023-09-18T20:58:08Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "author": "Expresso",
+      "title": "Ministra apela a operadores que se entendam no roaming e admite que haverá zonas sem fibra - Expresso",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMiiwFodHRwczovL2V4cHJlc3NvLnB0L2Vjb25vbWlhLzIwMjMtMDktMTgtTWluaXN0cmEtYXBlbGEtYS1vcGVyYWRvcmVzLXF1ZS1zZS1lbnRlbmRhbS1uby1yb2FtaW5nLWUtYWRtaXRlLXF1ZS1oYXZlcmEtem9uYXMtc2VtLWZpYnJhLTNhZjIyMjUx0gEA?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2023-09-18T20:45:47Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "author": "Jornal de Negócios",
+      "title": "Wall Street na linha de água com investidores à espera da Fed - Jornal de Negócios",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMidGh0dHBzOi8vd3d3Lmpvcm5hbGRlbmVnb2Npb3MucHQvbWVyY2Fkb3MvYm9sc2EvZGV0YWxoZS93YWxsLXN0cmVldC1uYS1saW5oYS1kZS1hZ3VhLWNvbS1pbnZlc3RpZG9yZXMtYS1lc3BlcmEtZGEtZmVk0gFwaHR0cHM6Ly93d3cuam9ybmFsZGVuZWdvY2lvcy5wdC9tZXJjYWRvcy9ib2xzYS9hbXAvd2FsbC1zdHJlZXQtbmEtbGluaGEtZGUtYWd1YS1jb20taW52ZXN0aWRvcmVzLWEtZXNwZXJhLWRhLWZlZA?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2023-09-18T20:37:00Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "author": "Público",
+      "title": "Mundo reúne-se em Nova Iorque em busca da confiança perdida - Público",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMiaWh0dHBzOi8vd3d3LnB1YmxpY28ucHQvMjAyMy8wOS8xOC9tdW5kby9ub3RpY2lhL211bmRvLXJldW5lc2Utbm92YS1pb3JxdWUtYnVzY2EtY29uZmlhbmNhLXBlcmRpZGEtMjA2MzczNtIBAA?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2023-09-18T20:00:00Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "author": "SIC",
+      "title": "\"Promessa cumprida\" - Lourenço Ortigão partilha foto com o filho depois de viagem em família - SIC",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMic2h0dHBzOi8vc2ljLnB0L3NpYy1tdWxoZXIvcHJvbWVzc2EtY3VtcHJpZGEtbG91cmVuY28tb3J0aWdhby1wYXJ0aWxoYS1mb3RvLWNvbS1vLWZpbGhvLWRlcG9pcy1kZS12aWFnZW0tZW0tZmFtaWxpYS_SAQA?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2023-09-18T19:23:16Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "author": "Metro World News",
+      "title": "As revelações para Leão, Virgem, Libra e Escorpião nesta terça-feira (19), segundo o tarot - Metro World News",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMijwFodHRwczovL3d3dy5tZXRyb3dvcmxkbmV3cy5jb20uYnIvZXN0aWxvLXZpZGEvMjAyMy8wOS8xOC9hcy1yZXZlbGFjb2VzLXBhcmEtbGVhby12aXJnZW0tbGlicmEtZS1lc2NvcnBpYW8tbmVzdGEtdGVyY2EtZmVpcmEtMTktc2VndW5kby1vLXRhcm90L9IBAA?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2023-09-18T19:11:00Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "author": "Observador",
+      "title": "Um colete à prova de balas, seis drones e um chapéu. As prendas que Kim Jong-un levou para a Coreia do Norte depois da visita à Rússia - Observador",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMipgFodHRwczovL29ic2VydmFkb3IucHQvMjAyMy8wOS8xOC91bS1jb2xldGUtYS1wcm92YS1kZS1iYWxhcy1zZWlzLWRyb25lcy1lLXVtLWNoYXBldS1hcy1wcmVuZGFzLXF1ZS1raW0tam9uZy11bi1sZXZvdS1wYXJhLWEtY29yZWlhLWRvLW5vcnRlLWRlcG9pcy1kYS12aXNpdGEtYS1ydXNzaWEv0gEA?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2023-09-18T18:11:54Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "author": "RTP",
+      "title": "\"Não podemos falhar\". Marcelo participa em cimeira sobre objetivos de desenvolvimento sustentável - RTP",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMiiQFodHRwczovL3d3dy5ydHAucHQvbm90aWNpYXMvbXVuZG8vbmFvLXBvZGVtb3MtZmFsaGFyLW1hcmNlbG8tcGFydGljaXBhLWVtLWNpbWVpcmEtc29icmUtb2JqZXRpdm9zLWRlLWRlc2Vudm9sdmltZW50by1zdXN0ZW50YXZlbF92MTUxNDgxOdIBAA?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2023-09-18T17:14:12Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "author": "SIC Notícias",
+      "title": "Ucrânia: Kiev afirma ter furado linha de defesa russa perto de Bakhmut - SIC Notícias",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMikAFodHRwczovL3NpY25vdGljaWFzLnB0L2VzcGVjaWFpcy9ndWVycmEtcnVzc2lhLXVjcmFuaWEvMjAyMy0wOS0xOC1VY3JhbmlhLUtpZXYtYWZpcm1hLXRlci1mdXJhZG8tbGluaGEtZGUtZGVmZXNhLXJ1c3NhLXBlcnRvLWRlLUJha2htdXQtNTA1MDE2OTjSAQA?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2023-09-18T16:37:48Z",
+      "content": null
+    }
+  ]
+}
