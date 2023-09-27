@@ -1,62 +1,69 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="wrap_content"
-    android:layout_marginTop="10dp"
+    android:layout_marginBottom="8dp"
     android:background="@color/list_background"
-    android:orientation="vertical">
+    android:orientation="vertical"
+    android:padding="8dp">
 
     <TextView
         android:id="@+id/tvTitle"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:layout_marginTop="16dp"
-        android:layout_marginBottom="10sp"
+        android:layout_marginBottom="8dp"
         android:ellipsize="end"
         android:maxLines="3"
         android:textColor="@color/list_text"
-        android:textSize="15sp"
-        android:textStyle="bold" />
+        android:textSize="14sp"
+        android:textStyle="bold"
+        tools:text="Forecasters say an El Ni\u00F1o winter is likely. What that could mean for winter weather - NBC Chicago" />
 
     <LinearLayout
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:orientation="horizontal">
+        android:orientation="horizontal"
+        android:weightSum="6">
 
         <ImageView
             android:id="@+id/ivArticleImage"
             android:layout_width="0dp"
             android:layout_height="wrap_content"
-            android:layout_weight="2" />
+            android:layout_weight="2"
+            tools:src="@drawable/ic_launcher_background" />
 
         <LinearLayout
             android:layout_width="0dp"
             android:layout_height="wrap_content"
-            android:layout_marginStart="10dp"
-            android:layout_weight="3"
+            android:layout_marginStart="8dp"
+            android:layout_weight="4"
             android:orientation="vertical">
 
             <TextView
                 android:id="@+id/tvDescription"
                 android:layout_width="wrap_content"
-                android:layout_height="0dp"
-                android:layout_weight="3"
-                android:maxLines="5"
-                android:text="DESCRIPTION"
+                android:layout_height="wrap_content"
+                android:maxLines="4"
                 android:textColor="@color/list_text"
-                android:textSize="15sp" />
+                android:textSize="14sp"
+                tools:text="Forecasters are nearly certain an El Ni\u00F1o winter is approaching and that could mean a big shift in what's expected for weather conditions." />
 
             <TextView
                 android:id="@+id/tvPublishedAt"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:textColor="@color/list_text" />
+                android:layout_marginTop="4dp"
+                android:textColor="@color/list_text"
+                tools:text="2023-09-26T01:31:47Z" />
 
             <TextView
                 android:id="@+id/tvSource"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:textColor="@color/list_text" />
+                android:layout_marginTop="4dp"
+                android:textColor="@color/list_text"
+                tools:text="NBC Chicago" />
 
         </LinearLayout>
 
