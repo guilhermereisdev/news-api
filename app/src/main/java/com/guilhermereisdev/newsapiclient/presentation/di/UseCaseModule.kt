@@ -3,6 +3,7 @@ package com.guilhermereisdev.newsapiclient.presentation.di
 import com.guilhermereisdev.newsapiclient.domain.repository.NewsRepository
 import com.guilhermereisdev.newsapiclient.domain.usecase.GetNewsHeadlinesUseCase
 import com.guilhermereisdev.newsapiclient.domain.usecase.GetSearchedNewsUseCase
+import com.guilhermereisdev.newsapiclient.domain.usecase.SaveNewsUseCase
 import dagger.Module
 import dagger.Provides
 import dagger.hilt.InstallIn
@@ -23,5 +24,11 @@ class UseCaseModule {
     @Provides
     fun provideGetSearchedNewsUseCase(newsRepository: NewsRepository): GetSearchedNewsUseCase {
         return GetSearchedNewsUseCase(newsRepository)
+    }
+
+    @Singleton
+    @Provides
+    fun provideSaveNewsUseCase(newsRepository: NewsRepository): SaveNewsUseCase {
+        return SaveNewsUseCase(newsRepository)
     }
 }

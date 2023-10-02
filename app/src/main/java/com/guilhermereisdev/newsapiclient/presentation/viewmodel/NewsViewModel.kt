@@ -9,9 +9,11 @@ import androidx.lifecycle.AndroidViewModel
 import androidx.lifecycle.MutableLiveData
 import androidx.lifecycle.viewModelScope
 import com.guilhermereisdev.newsapiclient.data.model.APIResponse
+import com.guilhermereisdev.newsapiclient.data.model.Article
 import com.guilhermereisdev.newsapiclient.data.util.Resource
 import com.guilhermereisdev.newsapiclient.domain.usecase.GetNewsHeadlinesUseCase
 import com.guilhermereisdev.newsapiclient.domain.usecase.GetSearchedNewsUseCase
+import com.guilhermereisdev.newsapiclient.domain.usecase.SaveNewsUseCase
 import kotlinx.coroutines.Dispatchers
 import kotlinx.coroutines.launch
 
@@ -19,6 +21,7 @@ class NewsViewModel(
     private val app: Application,
     private val getNewsHeadlinesUseCase: GetNewsHeadlinesUseCase,
     private val getSearchedNewsUseCase: GetSearchedNewsUseCase,
+    private val saveNewsUseCase: SaveNewsUseCase,
 ) : AndroidViewModel(app) {
 
     val newsHeadlines: MutableLiveData<Resource<APIResponse>> = MutableLiveData()
@@ -85,5 +88,10 @@ class NewsViewModel(
         } catch (e: Exception) {
             searchedNews.postValue(Resource.Error(e.message.toString()))
         }
+    }
+
+    // Local data
+    fun saveArticle(article: Article) = viewModelScope.launch {
+        saveNewsUseCase.execute(article)
     }
 }
