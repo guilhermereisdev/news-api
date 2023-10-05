@@ -1,7 +1,9 @@
 package com.guilhermereisdev.newsapiclient.presentation.di
 
 import android.app.Application
+import com.guilhermereisdev.newsapiclient.domain.usecase.DeleteSavedNewsUseCase
 import com.guilhermereisdev.newsapiclient.domain.usecase.GetNewsHeadlinesUseCase
+import com.guilhermereisdev.newsapiclient.domain.usecase.GetSavedNewsUseCase
 import com.guilhermereisdev.newsapiclient.domain.usecase.GetSearchedNewsUseCase
 import com.guilhermereisdev.newsapiclient.domain.usecase.SaveNewsUseCase
 import com.guilhermereisdev.newsapiclient.presentation.viewmodel.NewsViewModelFactory
@@ -22,12 +24,16 @@ class FactoryModule {
         getNewsHeadlinesUseCase: GetNewsHeadlinesUseCase,
         getSearchedNewsUseCase: GetSearchedNewsUseCase,
         saveNewsUseCase: SaveNewsUseCase,
+        getSavedNewsUseCase: GetSavedNewsUseCase,
+        deleteSavedNewsUseCase: DeleteSavedNewsUseCase,
     ): NewsViewModelFactory {
         return NewsViewModelFactory(
             application,
             getNewsHeadlinesUseCase,
             getSearchedNewsUseCase,
             saveNewsUseCase,
+            getSavedNewsUseCase,
+            deleteSavedNewsUseCase,
         )
     }
 }
